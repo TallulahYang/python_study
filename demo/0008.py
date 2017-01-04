@@ -1,3 +1,8 @@
+#! /usr/bin/env python3
+# coding: utf-8
+
+# 分析html
+
 from bs4 import BeautifulSoup
 import requests
 
